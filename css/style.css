@@ -1,0 +1,71 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  gap: 10px;
+}
+.box {
+  width: 300px;
+  height: 400px;
+  background-color: #EA047E;
+  color: white;
+  text-align: center;
+}
+.title {
+  text-transform: uppercase;  
+  padding: 100px 0px 0px 0px;
+}
+.info {
+  padding: 15px 20px 0px 20px;
+  font-size: 18px;
+  line-height: 25px;
+}
+.block {
+  border: 1px solid white;
+  background-color: white;
+  border-radius: 100px;
+  width: 200px;
+  height: 40px;
+  margin: 35px 0px 0px 50px;
+}
+.about {
+  text-transform: uppercase;
+  color: #EA047E;
+  padding: 10px 0px 0px 0px;
+}
+.box2 {
+  width: 300px;
+  height: 400px;
+  background-color: white;
+  color: black;
+  text-align: center;
+  border: 3px solid black;
+}
+.title2 {
+  text-transform: uppercase;  
+  padding: 100px 0px 0px 0px;
+}
+.info2 {
+  padding: 15px 20px 0px 20px;
+  font-size: 18px;
+  line-height: 25px;
+}
+.block2 {
+  background-color: black;
+  border-radius: 100px;
+  width: 200px;
+  height: 40px;
+  margin: 35px 0px 0px 50px;
+}
+.about2 {
+  text-transform: uppercase;
+  color: white;
+  padding: 10px 0px 0px 0px;
+}
